@@ -21,10 +21,23 @@ The PCB Milling Machine in the CSUB Fab Lab are done using PNG files. The follow
 - Be sure to make the page size the same for all of the files. For example if the page size is 500px by 400px make sure it is consistent with other files.
 - Make sure that the resolution is at least 600dpi for the device when exporting the PNG.
 - Make sure that the front and the back files of the board are mirrors of each other. (Remember the transformation is dependent on how the actual board is flipped.)
+- All holes are resized to 0.090mm
+- Trace Width: 0.5mm
 
 ## Project Specific Files
 PNG Files for this project have the following specifications:
-- Page Size: 60 mm
+**Version 1.0**
+- Page Size: 60 mm x 60 mm
 - Distance from Page Origin to Board Origin:
     - X Value: 10mm
     - Y Value: 10mm
+**Version 1.1**
+- Page Size: 50 mm x 50 mm
+- Distance from Page Origin to Board Origin:
+    - X Value: 3mm
+    - Y Value: 3mm
+**Version 1.2**
+- Page Size: 50 mm x 50 mm
+- Distance from Page Origin to Board Origin:
+    - X Value: 3mm
+    - Y Value: 3mm
