@@ -44,6 +44,157 @@ PNG Files for this project have the following specifications:
     - X Value: 3mm
     - Y Value: 3mm
 
+## Ordering PCB Boards
+### JLC PCB
+#### PCB Board: Green
+Standard PCB/PCBA
+
+General Information
+- Filename: JLC_PCB-PIC10F200_PCB-V1.2.zip
+- Base Material: FR-4
+- Layers: 2
+- Dimensions: $45 x 45$ mm
+- PCB Quantity: 5
+- Product Type: Industrial/Consumer Electronics
+
+PCB Specifications
+- Different Design: 1
+- Delivery Format: Single PCB
+- PCB Thickness: 1.6
+- PCB Color: Green
+- Silkscreen: White
+- Surface Finish: LeadFree HASL
+
+High-Spec Options
+- Outer Copper Weight: 1 oz
+- Via Covering: Tented
+- Confirm Production File: No
+- Remove Order Number: No
+- Flying Probe Test: Fully Test
+- Gold Fingers: No
+- Castellated Holes: No
+
+#### PCB Board: Purple
+Standard PCB/PCBA
+
+General Information
+- Filename: JLC_PCB-PIC10F200_PCB-V1.2.zip
+- Base Material: FR-4
+- Layers: 2
+- Dimensions: $45 x 45$ mm
+- PCB Quantity: 5
+- Product Type: Industrial/Consumer Electronics
+
+PCB Specifications
+- Different Design: 1
+- Delivery Format: Single PCB
+- PCB Thickness: 1.6
+- PCB Color: Purple
+- Silkscreen: White
+- Surface Finish: LeadFree HASL
+
+High-Spec Options
+- Outer Copper Weight: 1 oz
+- Via Covering: Tented
+- Confirm Production File: No
+- Remove Order Number: No
+- Flying Probe Test: Fully Test
+- Gold Fingers: No
+- Castellated Holes: No
+
+#### PCB Board: Blue
+Standard PCB/PCBA
+
+General Information
+- Filename: JLC_PCB-PIC10F200_PCB-V1.2.zip
+- Base Material: FR-4
+- Layers: 2
+- Dimensions: $45 x 45$ mm
+- PCB Quantity: 5
+- Product Type: Industrial/Consumer Electronics
+
+PCB Specifications
+- Different Design: 1
+- Delivery Format: Single PCB
+- PCB Thickness: 1.6
+- PCB Color: Blue
+- Silkscreen: White
+- Surface Finish: LeadFree HASL
+
+High-Spec Options
+- Outer Copper Weight: 1 oz
+- Via Covering: Tented
+- Confirm Production File: No
+- Remove Order Number: No
+- Flying Probe Test: Fully Test
+- Gold Fingers: No
+- Castellated Holes: No
+
+#### PCB Board: Black
+Standard PCB/PCBA
+
+General Information
+- Filename: JLC_PCB-PIC10F200_PCB-V1.2.zip
+- Base Material: FR-4
+- Layers: 2
+- Dimensions: $45 x 45$ mm
+- PCB Quantity: 5
+- Product Type: Industrial/Consumer Electronics
+
+PCB Specifications
+- Different Design: 1
+- Delivery Format: Single PCB
+- PCB Thickness: 1.6
+- PCB Color: Black
+- Silkscreen: White
+- Surface Finish: LeadFree HASL
+
+High-Spec Options
+- Outer Copper Weight: 1 oz
+- Via Covering: Tented
+- Confirm Production File: No
+- Remove Order Number: No
+- Flying Probe Test: Fully Test
+- Gold Fingers: No
+- Castellated Holes: No
+
+#### Shipping
+Method of Delivery: Parcel International Direct
+
+### OSH Park
+#### PCB Board: Purple
+Regular
+
+#### PCB Board: Black
+After Dark (Black Substrate + Clear Mask)
+
+### PCB Way
+#### PCB Board: Black
+Order Type: Standard PCB
+
+General Information
+- Board Type: Single Pieces
+- Different Design in Panel: 1
+- *Size (single): $45x45$ mm
+- *Quantity: 5 pcs
+- Layers: 2 Layers
+- Material: FR-4
+- FR4-TG: TG 150-160
+- Thickness: 1.6 mm
+- Min Track/ Spacing: 6/6mil
+- Min Hole Size: 0.3mm $\uparrow$
+- Solder Mask: Green
+- Silkscreen: White
+- Edge Connector: No
+- Surface Finish: HASL lead free
+- Via Process: Tenting Vias
+- Finished Copper: 1 oz Cu
+- Remove pcb identification number: no
+
+Additional Options: No
+
+#### Shipping: United State Postal Service
+
 # Software Development
 Programming for the PIC10F200 Microcontroller will be done using the following:
 - **PIC10F200 Microcontroller:** Microcontroller used for development in this project
